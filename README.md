@@ -1,4 +1,5 @@
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&color=%2379A500&height=67&duration=3000&center=true&lines=Materia optativa Metodologias Agiles Para Aplicaciones Web 2025" />
+Materia optativa Metodologias Agiles Para Aplicaciones Web 2025
+  <img src="https://c.tenor.com/SOVMSXmWB1kAAAAi/tony-star-jumping.gif" width="70">
 
   <td><img src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif"></td>
